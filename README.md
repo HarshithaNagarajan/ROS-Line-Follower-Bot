@@ -16,10 +16,10 @@ The Line Follower robot is a WaffleBot that is programmed to follow the lines in
 ***ROS Node Graph***
 
 
-## Technology Used
-1. ROS - for robot software develpoment and testing
-2. Gazebo - for simulation
-3. Python3 - for coding the proposed algorithm
+## Technologies Used
+1. **ROS** - For robot software develpoment and testing
+2. **Gazebo** - For simulation
+3. **Python3** - For coding the proposed algorithm
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/60460452/131826857-f0f87ad7-7f11-4062-b84c-ea66faa61f1d.png)
